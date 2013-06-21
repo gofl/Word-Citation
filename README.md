@@ -48,4 +48,3 @@ Bei Mehrfachverweis auf eine Quelle hinter dem Jahr die Reihenfolge mit Kleinbuc
 
 Im Literaturverzeichnis erscheint nur das Jahr ohne Reihenfolge.
 
-Die Quelle muss leider neu eingegeben werden. 
